@@ -1,6 +1,6 @@
-namespace ParentProjectName.Models
+namespace ToDoList.Models
 {
-  public class Whatever
+  public class Items
   {
 
     // properties, methods, etc. will go here.

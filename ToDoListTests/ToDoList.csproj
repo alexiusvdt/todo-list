@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <!-- This should point to the 'dev branch' instance -->
-    <ProjectReference Include="..\Project\Project.csproj" />  
+    <ProjectReference Include="..\ToDoList\ToDoList.csproj" />  
   </ItemGroup>
 
 </Project>

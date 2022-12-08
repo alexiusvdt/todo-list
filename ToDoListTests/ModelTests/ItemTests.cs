@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProjectName.Models;
+using ToDoList.Models;
 
-namespace ProjectName.Tests
+namespace ToDoList.Tests
 {
   [TestClass]
   public class ItemTests
